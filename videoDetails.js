@@ -1,3 +1,5 @@
+const API_KEY = "AIzaSyCVwKurSR0Sb346-lhcAH2sPzjzp01t-cU";
+const BASE_URL = "https://www.googleapis.com/youtube/v3";
 const videoTitle = document.getElementById("videoTitle");
 const channelName = document.getElementById("channelName");
 const description = document.getElementById("description");
